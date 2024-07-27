@@ -1,0 +1,4 @@
+<title> "Trackmania": converting menu maniaapp <manialink> to a filename to enable the script debugger
+Shading Constant Id not found: "AttritionNormalScale"<manialink> file://Media/Mods/Cupra/Cupra2023.zip: File 'Mods\Cupra\Cupra2023.zip' not found.
+<image> ":data:\Packs\Stadium.pak", file "LightMap5_Local.dds": Missing mipmaps.
+<image> ":data:\Packs\Stadium.pak", file "LightMap4_Local.dds": Missing mipmaps.
